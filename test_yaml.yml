@@ -1,0 +1,13 @@
+myinfo:
+  Address:
+    city: pune
+    state: maharashtra
+  Age: 24
+  firstname: Rishi
+  lastname: Goswami
+  technologies:
+    skills:
+      - Ansible
+      - Dockers
+      - Kubernetes
+      - shell scripting

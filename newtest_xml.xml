@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<myinfo>
+  <Address>
+    <city>pune</city>
+    <state>maharashtra</state>
+  </Address>
+  <Age>24</Age>
+  <firstname>Rishi</firstname>
+  <lastname>Goswami</lastname>
+  <technologies>
+    <skills>Ansible</skills>
+    <skills>Dockers</skills>
+    <skills>Kubernetes</skills>
+    <skills>shell scripting</skills>
+  </technologies>
+</myinfo>
